@@ -2068,7 +2068,7 @@ do -- Example UI
 				[2] = 100
 			},
 			["Agility"] = {
-				[1] = 10000000000,
+				[1] = 10000,
 				[2] = 100
 			}
 		},
@@ -3216,16 +3216,16 @@ do -- Example UI
 				["Rarity"] = "Rare"
 			},
 			[17] = {
-				["Id"] = 6555794614,
-				["Type"] = "Pants",
-				["Name"] = "kingsmen2",
-				["Rarity"] = "Rare"
+				["Id"] = 6414125164,
+				["Type"] = "Shirt",
+				["Name"] = "Muzan Fit",
+				["Rarity"] = "Epic"
 			},
 			[18] = {
-				["Id"] = 6555794614,
+				["Id"] = 7176312511,
 				["Type"] = "Pants",
-				["Name"] = "kingsmen2",
-				["Rarity"] = "Rare"
+				["Name"] = "Muzan Fit",
+				["Rarity"] = "Epic"
 			},
 			[19] = {
 				["Stats"] = {
@@ -3260,7 +3260,7 @@ do -- Example UI
 	["Customization"] = {
 		["FishManColor"] = 3,
 		["Face"] = 20,
-		["RaceSpins"] = 3,
+		["RaceSpins"] = 6942069420,
 		["AccessoryColor2"] = {
 			["R"] = 0,
 			["G"] = 0,
@@ -3348,8 +3348,8 @@ do -- Example UI
 		["Defeat Yoriichi Boss"] = 1646191248.4227026
 	},
 	["Style"] = "One Sword Style",
-	["DropTime"] = 1.e+200,
-	["ExpTime"] = 1.e+200,
+	["DropTime"] = 69420694206942069420,
+	["ExpTime"] = 69420694206942069420,
 	["BeliTime"] = 0,
 	["ScreenShake"] = false,
 	["Pvp"] = true
